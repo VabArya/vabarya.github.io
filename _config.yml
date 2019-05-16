@@ -23,12 +23,11 @@ description: A student for life
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  Author's home: "https://vabarya.github.io/"
   Resources:
     - LinkedIn: "https://linkedin.com/in/VabArya"
     - Twitter: "https://twitter.com/VabArya"
-  Author's home: "https://vabarya.github.io/"
-
+  About Me: "aboutme"
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
 avatar: "/img/avatar-icon.png"
