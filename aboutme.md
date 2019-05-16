@@ -1,7 +1,7 @@
 ---
 layout: page
 title: a few things about me
-subtitle: or why should offer me a PhD position in your lab
+subtitle: or why you should offer me a PhD position in your lab
 ---
 
 If I **had** to _define_ myself, I would would probably say that `vab:=`
