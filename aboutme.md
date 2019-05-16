@@ -4,10 +4,10 @@ title: a few things about me
 subtitle: or why should offer me a PhD position in your lab
 ---
 
-If I had to _define myself_, I would would probably say that `vab:=`
+If I **had** to _define_ myself, I would would probably say that `vab:=`
 - Remind me to insert cool things about me here
-W
-hat else do you need?
+
+What else do you need?
 
 ### my history
 
