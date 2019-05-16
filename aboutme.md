@@ -1,11 +1,10 @@
 ---
 layout: page
-title: about me
-subtitle: or why you'd want to go on a date with me
+title: a few things about about me
+subtitle: or why should offer me a PhD position in your lab
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
+This is an example of `inline code and should appear as vab:=`
 - I rock a great mustache
 - I'm extremely loyal to my family
 
