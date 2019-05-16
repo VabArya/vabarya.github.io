@@ -25,7 +25,7 @@ description: A student for life
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - LinkedIn: "www.linkedin.com/in/VabArya"
+    - LinkedIn: "https://linkedin.com/in/VabArya"
     - Twitter: "https://twitter.com/VabArya"
   Author's home: "https://vabarya.github.io/"
 
