@@ -23,7 +23,7 @@ description: A student for life
 
 # List of links in the navigation bar
 navbar-links:
-  Author's home: "https://vabarya.github.io/"
+  Projects: "https://vabarya.github.io/Projects"
   Resources:
     - LinkedIn: "https://linkedin.com/in/VabArya"
     - Twitter: "https://twitter.com/VabArya"
