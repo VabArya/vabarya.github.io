@@ -1,10 +1,7 @@
 ---
 layout: page
-title:
-```python
-Vab = random.random()
-```
-subtitle: Why you'd want to go on a date with me
+title: about me
+subtitle: or why you'd want to go on a date with me
 ---
 
 My name is Inigo Montoya. I have the following qualities:
