@@ -1,14 +1,6 @@
 ---
 layout: page
 title: a few things about me
-subtitle: or why you should offer me a PhD position in your lab
 ---
 
-If I **had** to _define_ myself, I would would probably say that `vab:=`
-* Remind me to insert cool things about me here
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [look at my CV](https://vabarya.github.io) and it will answer **all** your questions.
+This page is currently _under construction_ but until I add more content, [you can have a look here](https://www.epanlab.nl/people/vaibhav-arya/) so answer some of your questios.
